@@ -3,8 +3,8 @@ from discord.ext import commands, tasks
 import discord
 from dataclasses import dataclass
 
-BOT_TOKEN = "PUT_YOUR_TOKEN_HERE"
-CHANNEL_ID = 1025651504750800917
+BOT_TOKEN = "MTA1NDI5Nzk0OTMwMTEyNTEyMA.G46SfN.78RylpL-9eC01JjnMHXY0G-V34U9kcQhreoh2o"
+CHANNEL_ID = 1053532552595505234
 MAX_SESSION_TIME_MINUTES = 45
 
 @dataclass
